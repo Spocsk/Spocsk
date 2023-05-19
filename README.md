@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on **Citizens**
-
 - 🌱 I’m currently learning **Vuejs, Python, Symfony, Cybersecurity**
 
 - 💬 Ask me about **Vuejs and Symfony or even Python**
 
 - 📫 How to reach me **dylan.coutodeoliveira@protonmail.com**
-
-- ⚡ Fun fact **I love Rick And Morty**
 
 
 <h3 align="left">Languages and Tools:</h3>
